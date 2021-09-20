@@ -1,0 +1,6 @@
+{
+    "sketch": "nightmare_park.ino",
+    "board": "arduboy:avr:arduboy",
+    "port": "COM6",
+    "output": "../output"
+}
